@@ -1,0 +1,27 @@
+{
+  "name": "babel-try-info",
+  "version": "1.0.0",
+  "description": "babel 错误检查与运行效率检查工具",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FE-developers/babel-try-info.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FE-developers/babel-try-info/issues"
+  },
+  "homepage": "https://github.com/FE-developers/babel-try-info#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/register": "^7.7.4",
+    "istanbul": "^0.4.5",
+    "mocha": "^6.2.2"
+  }
+}
